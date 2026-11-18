@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Prisma SQLite DB
+*.db
+*.db-journal
+
+# Environment variables
+.env*.local
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
